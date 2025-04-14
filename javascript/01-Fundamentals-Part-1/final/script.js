@@ -1,3 +1,4 @@
+// javascript basic
 /*
 ////////////////////////////////////
 // Linking a JavaScript File
