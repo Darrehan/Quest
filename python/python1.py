@@ -1,4 +1,4 @@
-# coding for band name generator buddy
+# coding for band name generator 
 print("welcome to the band name generator.")
 your_Name=input("what is your name?\n")
 pet_Name=input("what is your pet name?\n")
